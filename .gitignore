@@ -1,0 +1,7 @@
+.vscode/**
+.eggs/**
+dist/**
+.settings/**
+*.pyc
+build/**
+src/main/python/livy_python_api.egg-info/**

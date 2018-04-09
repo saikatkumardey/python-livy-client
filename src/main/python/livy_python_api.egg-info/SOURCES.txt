@@ -1,0 +1,13 @@
+MANIFEST.in
+setup.cfg
+setup.py
+src/main/python/livy/__init__.py
+src/main/python/livy/client.py
+src/main/python/livy/job_context.py
+src/main/python/livy/job_handle.py
+src/main/python/livy_python_api.egg-info/PKG-INFO
+src/main/python/livy_python_api.egg-info/SOURCES.txt
+src/main/python/livy_python_api.egg-info/dependency_links.txt
+src/main/python/livy_python_api.egg-info/requires.txt
+src/main/python/livy_python_api.egg-info/top_level.txt
+src/test/python/livy-tests/client_test.py
