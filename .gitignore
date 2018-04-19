@@ -5,3 +5,4 @@ dist/**
 *.pyc
 build/**
 src/main/python/livy_python_api.egg-info/**
+src/main/python/livy_python_api.egg-info
